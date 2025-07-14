@@ -8,7 +8,7 @@ import plotly.express as px
 from app_retailer import show_retailer_dashboard
 from offer_page import show_offer_page
 
-st.set_page_config(page_title="Return and Earn Portal", layout="wide")
+st.set_page_config(page_title="Re³ward", layout="wide")
 
 # ----------- Load ML Model ----------
 model = joblib.load("random_forest_model.pkl")
@@ -104,7 +104,7 @@ elif st.session_state.admin_mode:
 
 # ----------- Home Page ----------
 elif page == "Home":
-    st.title("♻️ Return and Earn Portal")
+    st.title("♻️ Welcome to Re³ward")
 
     if not st.session_state.logged_in:
         st.subheader("🔐 Login / Register")
