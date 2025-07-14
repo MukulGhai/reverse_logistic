@@ -1,12 +1,39 @@
-Username,Product Name,Condition,Days Used,Score,Credit Earned,action,Time,Pickup Date,Pickup Time
-saanchi,tshirt,New,0,95.57,48,Resell,2025-07-14 04:49:23,2025-07-14,04:49:00
-saanchi,tshirt,Good,0,91.71,46,Resell,2025-07-14 04:50:40,2025-07-14,04:50:00
-saanchi,tshirt,New,0,95.57,48,Resell,2025-07-14 04:54:05,2025-07-14,04:53:00
-saanchi,pants,Poor,100,43.27,22,Repair,2025-07-14 04:54:20,2025-07-14,04:53:00
-saanchi,pants,Poor,100,43.27,22,Repair,2025-07-14 04:54:24,2025-07-14,04:53:00
-saanchi,pants,Good,0,91.71,46,Resell,2025-07-14 04:57:15,2025-07-14,04:56:00
-saanchi,ghjk,Fair,0,81.45,41,Resell,2025-07-14 05:08:19,2025-07-14,05:07:00
-mukul_ ghai,phone,Good,6,91.71,46,Resell,2025-07-14 11:41:23,2025-07-14,11:40:00
-mukul_ ghai,pants,Poor,200,43.67,22,Repair,2025-07-14 12:07:11,2025-07-14,12:06:00
-mukul_ ghai,pants,Poor,1000,43.29,22,Repair,2025-07-14 12:08:27,2025-07-14,12:08:00
-mukul_ ghai,pants,Poor,10000,43.29,22,Repair,2025-07-14 12:08:50,2025-07-14,12:08:00
+email,Username,Product Name,Condition,Days Used,Score,Credit Earned,action,Time,Pickup Date,Pickup Time
+mukul12@ex.com,mukul,shirt,New,0,95.57,350,Resell,2025-07-14 14:31:56,2025-07-14,14:31:00
+mukul12@ex.com,mukul,shoes,New,1,95.57,350,Resell,2025-07-14 14:32:48,2025-07-14,14:32:00
+mukul12@ex.com,mukul,shoes,New,1,95.57,350,Resell,2025-07-14 14:32:56,2025-07-14,14:32:00
+mukul12@ex.com,mukul,shoes,New,1,95.57,350,Resell,2025-07-14 14:32:58,2025-07-14,14:32:00
+mukul12@ex.com,mukul,shoes,New,1,95.57,350,Resell,2025-07-14 14:32:59,2025-07-14,14:32:00
+mukul12@ex.com,mukul,shoes,New,1,95.57,350,Resell,2025-07-14 14:33:01,2025-07-14,14:32:00
+mukul12@ex.com,mukul,shoes,New,1,95.57,350,Resell,2025-07-14 14:33:02,2025-07-14,14:32:00
+mukul12@ex.com,mukul,plants,New,1,95.57,48,Resell,2025-07-14 15:18:39,2025-07-14,15:18:00
+mukul12@ex.com,mukul,plants,New,1,95.57,48,Resell,2025-07-14 15:18:41,2025-07-14,15:18:00
+mukul12@ex.com,mukul,plants,New,1,95.57,48,Resell,2025-07-14 15:18:41,2025-07-14,15:18:00
+mukul12@ex.com,mukul,plants,New,1,95.57,48,Resell,2025-07-14 15:18:41,2025-07-14,15:18:00
+mukul12@ex.com,mukul,plants,New,1,95.57,48,Resell,2025-07-14 15:18:41,2025-07-14,15:18:00
+mukul12@ex.com,mukul,plants,New,1,95.57,48,Resell,2025-07-14 15:18:42,2025-07-14,15:18:00
+mukul12@ex.com,mukul,plants,New,1,95.57,48,Resell,2025-07-14 15:18:42,2025-07-14,15:18:00
+mukul12@ex.com,mukul,plants,New,1,95.57,48,Resell,2025-07-14 15:18:42,2025-07-14,15:18:00
+mukul12@ex.com,mukul,plants,New,1,95.57,48,Resell,2025-07-14 15:18:42,2025-07-14,15:18:00
+mukul12@ex.com,mukul,plants,New,1,95.57,48,Resell,2025-07-14 15:18:43,2025-07-14,15:18:00
+mukul12@ex.com,mukul,plants,New,1,95.57,48,Resell,2025-07-14 15:18:44,2025-07-14,15:18:00
+mukul12@ex.com,mukul,plants,New,1,95.57,48,Resell,2025-07-14 15:18:44,2025-07-14,15:18:00
+mukul12@ex.com,mukul,plants,New,1,95.57,48,Resell,2025-07-14 15:18:45,2025-07-14,15:18:00
+mukul12@ex.com,mukul,plants,New,1,95.57,48,Resell,2025-07-14 15:18:47,2025-07-14,15:18:00
+mukul12@ex.com,mukul,plants,New,1,95.57,48,Resell,2025-07-14 15:18:48,2025-07-14,15:18:00
+mukul@ex.com,mukul_,shirt,New,1,95.57,48,Resell,2025-07-14 15:30:38,2025-07-14,15:30:00
+mukul@ex.com,mukul_,shirt,New,1,95.57,48,Resell,2025-07-14 15:30:40,2025-07-14,15:30:00
+mukul@ex.com,mukul_,shirt,New,1,95.57,48,Resell,2025-07-14 15:30:41,2025-07-14,15:30:00
+mukul@ex.com,mukul_,shirt,New,1,95.57,48,Resell,2025-07-14 15:30:42,2025-07-14,15:30:00
+mukul@ex.com,mukul_,shirt,New,1,95.57,48,Resell,2025-07-14 15:30:43,2025-07-14,15:30:00
+mukul@ex.com,mukul_,shirt,New,1,95.57,48,Resell,2025-07-14 15:30:44,2025-07-14,15:30:00
+mukul@ex.com,mukul_,shirt,New,1,95.57,48,Resell,2025-07-14 15:30:45,2025-07-14,15:30:00
+mukul@ex.com,mukul_,shirt,New,1,95.57,48,Resell,2025-07-14 15:30:47,2025-07-14,15:30:00
+mukul@ex.com,mukul_,shirt,New,1,95.57,48,Resell,2025-07-14 15:30:48,2025-07-14,15:30:00
+mukul@ex.com,mukul_,shirt,New,1,95.57,48,Resell,2025-07-14 15:30:50,2025-07-14,15:30:00
+mukul@ex.com,mukul_,shirt,New,1,95.57,48,Resell,2025-07-14 15:30:51,2025-07-14,15:30:00
+mukul@ex.com,mukul_,shirt,New,1,95.57,48,Resell,2025-07-14 15:30:55,2025-07-14,15:30:00
+mukul@ex.com,mukul_,shirt,New,1,95.57,48,Resell,2025-07-14 15:30:56,2025-07-14,15:30:00
+mukul@ex.com,mukul_,shirt,New,1,95.57,48,Resell,2025-07-14 15:30:58,2025-07-14,15:30:00
+mukul@ex.com,mukul_,shirt,New,1,95.57,48,Resell,2025-07-14 15:30:59,2025-07-14,15:30:00
+mukul@ex.com,mukul_,shirt,New,1,95.57,48,Resell,2025-07-14 15:31:01,2025-07-14,15:30:00
